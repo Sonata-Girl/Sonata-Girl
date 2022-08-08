@@ -8,3 +8,20 @@
 Sonata-Girl/Sonata-Girl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<details> 
+  <summary> не нажимай сюда! </summary>
+  <details> 
+    <summary> ах, зачем ты так... 😅 </summary>
+      <details> 
+      <summary> аххх... остановись... 😳 </summary>
+        <details> 
+        <summary> ...........   </summary>
+          <details> 
+          <summary> это было великолепно 😳😳😳 </summary>
+  😘
+    </details>
+    </details>
+    </details>
+    </details>
+    </details>
